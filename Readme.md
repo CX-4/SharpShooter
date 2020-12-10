@@ -1,4 +1,4 @@
-### Pythob 2 is required to run this tool. Yes, Python 2!
+### Python 2 is required to run this tool. Yes, Python 2!
 
 ```
    _____ __                    _____ __                __           
